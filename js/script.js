@@ -24,7 +24,8 @@ const siteConfig = {
  *   technique: "Opsional: teknik yang digunakan"
  * }
  */
-const photographyItems = {
+const photographyItems =  [
+  {
    src: "images/photography/bukti-juara.jpg",
   title: "Foto saya juara 1 lomba poster digital",
     description: "Saya mendapatkan juara 1 lomba poster digital di MTs 02 Tegalsari.",
@@ -32,7 +33,7 @@ const photographyItems = {
     device: "Null",
    technique: "Null"
   }
-};
+  ];
 
 /*
  * Add a video object here for each original work:
